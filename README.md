@@ -34,7 +34,6 @@ I'm a passionate Backend Developer with experience in Golang, Docker and Kuberne
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/gupta-ajay)
 
 
