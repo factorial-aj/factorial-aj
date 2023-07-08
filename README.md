@@ -1,7 +1,5 @@
 # Hi there, I'm Ajay Gupta! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate Backend Developer with experience in Golang, Docker and Kubernetes. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
